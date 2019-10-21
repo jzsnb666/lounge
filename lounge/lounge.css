@@ -25,3 +25,18 @@ p.blueberry {
 blockquote.greentea, p.greentea {
        color:green;
 }
+body {
+      font-family: Verdana, Geneva, Arial, sans-serif;
+}
+body {
+      font-size: 14px;
+}
+body {
+      color: silver;
+}
+body {
+      font-weight: bold;
+}
+body {
+      text-decoration: underline;
+}
